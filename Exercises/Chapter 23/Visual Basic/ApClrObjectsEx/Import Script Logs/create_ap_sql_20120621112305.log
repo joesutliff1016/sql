@@ -1,0 +1,12 @@
+6/21/2012 4:23:05 PM	This log contains information about the import operation of the script 'create_ap.sql' into project 'ApClrObjectsEx' on computer 'ANNE-PC' by user'Anne.
+6/21/2012 4:23:05 PM	Started importing file: M:\Current projects\SQL Server 2012\Scripts\Chapter 22\create_ap.sql 
+6/21/2012 4:23:05 PM	File name M:\Current projects\SQL Server 2012\Scripts\Chapter 22\create_ap.sql (size: 16248)
+6/21/2012 4:23:05 PM	Parsing import script
+6/21/2012 4:23:05 PM	Total number of batches in script: 30
+6/21/2012 4:23:05 PM	Total number of statements in script: 24
+6/21/2012 4:23:05 PM	The script was successfully imported into the project.
+6/21/2012 4:23:05 PM	Analyzing schema objects...
+6/21/2012 4:23:05 PM	Scanning project for duplicate elements
+6/21/2012 4:23:05 PM	Finished duplicate element processing
+6/21/2012 4:23:05 PM	A summary of the import was saved to the following location: M:\Current projects\SQL Server 2012\Exercise solutions\Chapter 22\Visual Basic\ApClrObjectsEx\Import Script Logs\create_ap_sql_20120621112305.log
+6/21/2012 4:23:05 PM	Click Finish to continue...
